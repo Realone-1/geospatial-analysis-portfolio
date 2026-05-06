@@ -41,7 +41,7 @@ Buffered span-level QGIS model to automate high-resolution image extraction.
 | Programming             | Python, PyQGIS, GeoPandas, Rasterio, Shapely, NumPy, Pandas, SQL, JavaScript           | 
 | AI and Machine Learning | SAM (Segment Anything Model), YOLOv8, TensorFlow, PyTorch, Random Forest, XGBoost      | 
 | Satellite and Imagery   | Sentinel-2, Landsat 8/9, MODIS, GSAT, Aerial (5 to 50 cm), NDVI/EVI/SAVI, OBIA         | 
-| Databases and Cloud     | PostgreSQL, AWS, Power BI                          | 
+| Databases and Cloud     | PostgreSQL, AWS, Power BI                                                              | 
 | Domain Standards        | UK BNG Legislation, Defra Biodiversity Metric 4.0, UKHab Classification, OGC Standards | 
 
 
