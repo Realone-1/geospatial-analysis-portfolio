@@ -51,5 +51,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 > _“Precision is not just a metric, it’s the mindset that shapes every spatial decision.”_
  
-🌐 ([https://www.linkedin.com/in/rilwan-yusuf-927a2520b/](url)) | [GitHub](https://github.com/rsanthosh-geo)
+🌐 ([https://www.linkedin.com/in/rilwan-yusuf-927a2520b/](url)) | [https://github.com/Realone-1/geospatial-analysis-portfolio](url))
 
