@@ -1,4 +1,4 @@
-# 🌍 Santhosh Kumar R | Geospatial Automation & AI-Driven Analyst
+# 🌍 Realone | Geospatial Automation & AI-Driven Analyst
 
 # GIS Automation & Remote Sensing Projects 🛰️
 
@@ -50,7 +50,6 @@ Buffered span-level QGIS model to automate high-resolution image extraction.
 This project is licensed under the [MIT License](LICENSE).
 
 > _“Precision is not just a metric, it’s the mindset that shapes every spatial decision.”_
-
-📫 Let’s collaborate or connect! Reach me at: **rsanthosh.geo@gmail.com**  
-🌐 [LinkedIn](https://linkedin.com/in/rsanthoshgeo) | [GitHub](https://github.com/rsanthosh-geo)
+ 
+🌐 ([https://www.linkedin.com/in/rilwan-yusuf-927a2520b/](url)) | [GitHub](https://github.com/rsanthosh-geo)
 
